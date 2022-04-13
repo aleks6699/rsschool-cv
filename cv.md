@@ -14,6 +14,13 @@
      I have a great desire to improve myself in this field, and to reach great heights,
      I have no experience, but I have all the qualities for rapid progress in the field of IT.
 
+4. ###  Skills and Proficiency:
+     * HTML5 / CSS3
+     * SASS / SCSS 
+     * Photoshop / Figma 
+     * JavaScript Basics
+      
+
 
 
    
